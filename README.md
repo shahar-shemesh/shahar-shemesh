@@ -73,7 +73,7 @@ const skills = {
 ```
 
 <div align="left">
-  <a href="https://github.com/shahar-shemesh">
+  <a href="https://github.com/shahar-shemesh#js-contribution-activity-description">
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shahar-shemesh&theme=github_dark&hide_border=true" alt="GitHub streak" />
   </a>
   <a href="https://github.com/shahar-shemesh?tab=repositories">
