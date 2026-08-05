@@ -1,14 +1,25 @@
-<div align="center">
+<p align="left">
+  <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=80&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
+</p>
 
-# `shahar_shemesh`
+
+
+
+
+<div align="left">
+
 
 **Full Stack developer**
 
-[![Mail](https://img.shields.io/badge/shahar@usa.com-1f1f1f?style=flat&logo=gmail&logoColor=D4D4D4)](mailto:shahar@usa.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1f1f1f?style=flat&logo=linkedin&logoColor=569CD6)](https://linkedin.com/in/shaharshemesh)
-[![Website](https://img.shields.io/badge/shahar.cv-1f1f1f?style=flat&logo=googlechrome&logoColor=f9d81b)](https://shahar.cv)
+<a href="https://shahar.cv"><img src="https://img.shields.io/badge/Portfolio-shahar.cv-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/shaharshemesh"><img src="https://img.shields.io/badge/LinkedIn-Shahar_Shemesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:shahar@usa.com"><img src="https://img.shields.io/badge/Email-shahar%40usa.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 
 </div>
+
+<br>
+
 
 ```typescript
 // ==================================== about ====================================
@@ -21,6 +32,8 @@
 // or whatever comes next.
 // I'm also into music, gadgets, and a good cup of coffee ☕
 ```
+<br>
+
 
 ```typescript
 // =================================== my skills ==================================
@@ -33,6 +46,8 @@ const skills = {
 };
 ```
 
+<br>
+
 ```typescript
 // =================================== portfolio ==================================
 ```
@@ -44,18 +59,20 @@ const skills = {
 - **[BarberBuddy](https://github.com/shahar-shemesh/BARBERBUDDY)** - Android barbershop booking app · `java` `firebase`
 - **[Sunshine Food](https://github.com/shahar-shemesh/sunshine-food-app)** - food ordering platform · `react` `node`
 
+<br>
+
 ```typescript
 // ==================================== stats =====================================
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahar-shemesh&show_icons=true&bg_color=1f1f1f&text_color=D4D4D4&title_color=569CD6&icon_color=f9d81b&border_color=303030" alt="stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahar-shemesh&layout=compact&bg_color=1f1f1f&text_color=D4D4D4&title_color=569CD6&border_color=303030" alt="top languages" height="160" />
-
+<div align="left">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shahar-shemesh&theme=github_dark&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahar-shemesh&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </div>
+
+<br>
+<br>
 
 ```console
 16:04:12 [shahar] leave a message /contact
 guest@shahar.cv:~$ echo "thanks for stopping by - let's connect, create, and maybe even collaborate!"
-```
