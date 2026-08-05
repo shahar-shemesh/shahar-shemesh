@@ -5,7 +5,7 @@
   <!-- <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" />
       &nbsp;&nbsp;&nbsp;
 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=60&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=30&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
 </p>
 
 
@@ -17,7 +17,7 @@
 
 **Full Stack developer**
 
-<a href="https://shahar.cv"><img src="https://img.shields.io/badge/Portfolio-shahar.cv-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/shaharshemesh"><img src="https://img.shields.io/badge/LinkedIn-Shahar_Shemesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:shahar@usa.com"><img src="https://img.shields.io/badge/Email-shahar%40usa.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://shahar.cv"><img src="https://img.shields.io/badge/Portfolio-shahar.cv-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&font=Consolas" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/shaharshemesh"><img src="https://img.shields.io/badge/LinkedIn-Shahar_Shemesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&font=Consolas" alt="LinkedIn" /></a>&nbsp;<a href="mailto:shahar@usa.com"><img src="https://img.shields.io/badge/Email-shahar%40usa.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&font=Consolas" alt="Email" /></a>
 
 
 </div>
@@ -26,7 +26,7 @@
 
 
 ```typescript
-// ==================================== about ====================================
+// ======================================= about =======================================
 
 // Hi there, and welcome to my little corner of the internet!
 // I'm Shahar - a full-stack developer and computer science graduate with a deep
@@ -40,20 +40,20 @@
 
 
 ```typescript
-// =================================== my skills ==================================
+// ====================================== my skills =====================================
 
 const skills = {
   languages: ["TypeScript", "JavaScript", "Python", "C++", "C", "Java"],
-  backend:   ["Node", "NestJS", "Angular", "Django", "Flask",
-              "Elasticsearch", "MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-  frontend:  ["React", "Redux", "HTML", "CSS", "Tailwind-CSS", "Next"],
+  backend: ["Node", "NestJS", "Angular", "Django", "Flask", "Elasticsearch", "MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+  frontend: ["React", "Redux", "HTML", "CSS", "Tailwind-CSS", "Next"],
 };
 ```
 
 <br>
 
+<!--  
 ```typescript
-// =================================== portfolio ==================================
+// ====================================== portfolio =====================================
 ```
 
 - **[Gadish Suite](https://gadish-suite.co.il)** - suite rental showcase app · `react` `css-modules` `javascript`
@@ -64,9 +64,10 @@ const skills = {
 - **[Sunshine Food](https://github.com/shahar-shemesh/sunshine-food-app)** - food ordering platform · `react` `node`
 
 <br>
+-->
 
 ```typescript
-// ==================================== stats =====================================
+// ======================================= stats ========================================
 ```
 
 <div align="left">
