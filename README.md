@@ -71,9 +71,14 @@ const skills = {
 ```
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shahar-shemesh&theme=github_dark&hide_border=true" alt="GitHub streak" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahar-shemesh&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/shahar-shemesh">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shahar-shemesh&theme=github_dark&hide_border=true" alt="GitHub streak" />
+  </a>
+  <a href="https://github.com/shahar-shemesh?tab=repositories">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahar-shemesh&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  </a>
 </div>
+
 
 <br>
 <br>
