@@ -1,7 +1,11 @@
+
+<!-- <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" /> -->
+
 <p align="left">
-  <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" />
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=80&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
+  <!-- <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" />
+      &nbsp;&nbsp;&nbsp;
+-->
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=60&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
 </p>
 
 
