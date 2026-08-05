@@ -5,7 +5,9 @@
   <!-- <img src="./assets/about-me-circle.png" width="120" align="middle" alt="Shahar Shemesh" />
       &nbsp;&nbsp;&nbsp;
 -->
+  <a href="https://shahar.cv">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=1&pause=999999&color=f9d81b&center=false&vCenter=true&repeat=false&width=320&height=30&lines=shahar_shemesh" align="middle" alt="shahar_shemesh" />
+    </a>
 </p>
 
 
